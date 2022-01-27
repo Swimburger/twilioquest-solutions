@@ -1,0 +1,1 @@
+const scanAndFilter = (words, wordFilter) => words.filter(w => w !== wordFilter);

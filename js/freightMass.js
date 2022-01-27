@@ -1,0 +1,1 @@
+const calculateMass = (words) => words.reduce((weight, word) => weight += word.length, 0);
